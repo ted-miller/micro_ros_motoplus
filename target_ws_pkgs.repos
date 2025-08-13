@@ -157,5 +157,5 @@ repositories:
     version: 0.36.4
   extra/motoros2_interfaces:
     type: git
-    url: https://github.com/yaskawa-global/motoros2_interfaces.git
-    version: 0.2.0
+    url: https://github.com/ted-miller/motoros2_interfaces.git
+    version: 0a578a45cd34360fe2da5d9640439fa749b2b9cd
