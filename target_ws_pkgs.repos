@@ -158,4 +158,4 @@ repositories:
   extra/motoros2_interfaces:
     type: git
     url: https://github.com/ted-miller/motoros2_interfaces.git
-    version: 0a578a45cd34360fe2da5d9640439fa749b2b9cd
+    version: 67279ca7afbd44e487218bde25b09c52a414814e
